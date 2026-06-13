@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-hubapi-webhooks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Subscribes apps to HubSpot change events, delivering payloads to a target URL.",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-hubapi-webhooks",
